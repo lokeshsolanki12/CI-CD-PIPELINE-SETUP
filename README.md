@@ -9,3 +9,5 @@ INTERN ID: CT04WD69
 DOMAIN :: DEVOPS
 
 MENTOR: NEELA SANTHOSH KUMAR
+
+https://lokeshsolanki12.github.io/CI-CD-PIPELINE-SETUP/task2.html
